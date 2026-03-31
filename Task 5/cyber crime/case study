@@ -1,0 +1,11 @@
+Case Study: UPI QR Code Scam
+
+Definition: UPI (Unified Payments Interface) fraud is a common cybercrime in India where scammers trick victims into authorizing a debit from their own bank account under the guise of receiving money.
+
+How it Happens: The scam typically begins on a marketplace like OLX. A scammer contacts a student claiming to be interested in buying an item. Instead of paying, the scammer sends a "Payment QR Code" via WhatsApp and tells the student to scan it to "receive" the funds.
+
+The Hook: The scammer creates a sense of urgency, often claiming the link will expire in minutes. Once the student scans the code and enters their UPI PIN, they are actually authorizing a "Collect Request." Instead of receiving money, the amount is instantly debited from their account.
+
+Target & Consequences: College students are often targeted due to their frequent use of digital payments and online selling platforms. The consequences include immediate financial loss and the potential compromise of linked banking details.
+
+Source: Realistic scenario based on common advisories from the National Cyber Crime Reporting Portal.
